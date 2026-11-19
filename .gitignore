@@ -1,0 +1,9 @@
+data/Positive/
+data/Negative/
+data/*.rar
+__pycache__/
+.ipynb_checkpoints/
+outputs/fila_inspecao.csv
+
+# acima do limite de 100MB do GitHub
+video.mp4
