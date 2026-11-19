@@ -4,6 +4,8 @@ Global Solution 2026.2, Turma 2TIA.
 
 Módulo do protótipo CitizenTech que identifica **fissuras em concreto** (muros, paredes, viadutos e calçadas) em fotos, sequências de fotos e vídeos curtos. O resultado mostra onde está a possível fissura e a confiança do modelo, e sugere o local para inspeção técnica. É uma ferramenta de triagem: quem decide sobre a gravidade e a segurança da estrutura é um engenheiro.
 
+## Link do video: https://youtu.be/w45wAPJdvAA
+
 ## Integrantes
 
 - Rafael de Paiva Ramos (RM 563978)
